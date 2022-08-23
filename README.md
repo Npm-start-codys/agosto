@@ -1,2 +1,2 @@
-# primer_repositorio
+# agosto
 primer repositorio grupal
